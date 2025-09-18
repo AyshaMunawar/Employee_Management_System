@@ -1,0 +1,6 @@
+Emp01 Asad M internee 1 14000
+Emp02 Ali M internee 1 24000
+Emp03 Ahmed M developer 2 54000
+Emp04 Sadia F internee 1 10000
+Emp05 Iqra F internee 1 24000
+Emp06 Habiba F internee 1 14000
