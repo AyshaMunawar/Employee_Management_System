@@ -8,8 +8,8 @@
     	int id[5];
         char name[30]; 
         char gender[5];    
-	char position[20];
-	int experience;       
+		char position[20];
+		int experience;       
         float salary;            
     };
 
@@ -100,9 +100,9 @@ int main()
    
     struct emp e; // structure variable creation
  	
-	 char empname[40];
-    int eid;
-	long int recSize; // size of each record of employee
+		char empname[40];
+    	int eid;
+		long int recSize; // size of each record of employee
 
     fp = fopen("emp_Project.txt","a+");
     if(fp == NULL)
@@ -170,3 +170,4 @@ int found;
 	}
     return 0;
 }
+
